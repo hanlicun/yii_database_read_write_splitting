@@ -4,7 +4,8 @@
  * 主数据库 写 从数据库（可多个）读
  * 实现主从数据库 读写分离 主服务器无法连接 从服务器可切换写功能
  * 从务器无法连接 主服务器可切换读功
- * by ls
+ * by lmt
+ * link www.lostphp.com
  * */
 class DbConnectionMan extends CDbConnection {
 
