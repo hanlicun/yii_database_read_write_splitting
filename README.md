@@ -2,6 +2,7 @@ yii_database_read_write_splitting
 =================================
 
 yii 数据库 主从 读写分离
+link www.lostphp.com
 
 Yii框架数据库多数据库、主从、读写分离 实现
 
